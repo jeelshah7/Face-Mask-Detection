@@ -1,0 +1,8 @@
+item {
+    id: 1
+    name: 'Face_Mask_found'
+}
+item {
+    id: 2
+    name: 'Face_Mask_not_found'
+}
